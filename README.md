@@ -1,2 +1,3 @@
 # inf122-verano
-repositorio de la materia inf 122
+NOMBRE: GERSON MERCADO TUMIRI
+MATERIA: INF-122
